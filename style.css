@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'earthorbiterbold';
+    src: url('assets/earthorbiterbold.ttf');
+    src: url('assets/earthorbiterbold.ttf') format('truetype'),
+}
+
+
+body {
+  font-family: "earthorbiterbold";
+  margin:0;
+  background: url("assets/background.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+  color:white;
+}
+
+.navbar{
+  height:8rem;
+}
+
+.navbar-link {
+  color:white;
+  font-size: 2rem;
+}
+
+.logo-navbar {
+  width:9rem;
+  height:8rem;
+}
+
+hr {
+  height: 0.5px;
+  width:70vh;
+  border: 0;
+  border-top: 3px solid #fff;
+  margin:0;
+  padding: 0;
+}
+
+.presentation {
+  background-color:rgba(255, 255, 255, 0.3);
+  border: 1px solid white;
+  border-radius: 10px;
+  width:40%;
+  margin:auto;
+}
+
+.sign-up {
+  width: 53%;
+}
+
+.social-media {
+  width: 20%;
+}
+
+.sign-up-btn {
+  font-size:1.4rem;
+  color:white;
+}
+
+.social-media-logo {
+  width: 2rem;
+  height:2rem;
+}
