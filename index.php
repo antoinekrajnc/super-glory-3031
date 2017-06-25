@@ -17,7 +17,7 @@
       </div>
         <img class="logo ml-5 mr-5" src="assets/websitelogo2.png" alt="super-glory-3031-log">
       <div class="d-flex flex-column">
-        <a class="navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com">Blog</a>
+        <a class="navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com" target="_blank">Blog</a>
       </div>
     </div>
     <div class="d-flex justify-content-center">
@@ -32,13 +32,13 @@
     <div class="fixed-bottom d-flex flex-row align-items-center justify-content-around mb-3">
       <div class="sign-up d-flex justify-content-end mt-4">
         <!-- Button trigger modal -->
-        <a class="sign-up-btn" href="https://superglorygame.wufoo.com/forms/beta-sign-up/">
+        <a class="sign-up-btn" href="https://superglorygame.wufoo.com/forms/beta-sign-up/" target="_blank">
           sign up beta
         </a>
       </div>
       <div class="social-media d-flex flex-row align-items-center justify-content-start mr-5 mt-4">
-        <a href="https://twitter.com/superglorygame"><img class="social-media-logo" src="assets/websitetwitterlogo.png" alt="twitter"></a>
-        <a href="https://facebook.com/superglorygame"><img class="social-media-logo" src="assets/websitefblogo.png" alt="facebook"></a>
+        <a href="https://twitter.com/superglorygame" target="_blank"><img class="social-media-logo" src="assets/websitetwitterlogo.png" alt="twitter"></a>
+        <a href="https://facebook.com/superglorygame" target="_blank"><img class="social-media-logo" src="assets/websitefblogo.png" alt="facebook"></a>
       </div>
     </div>
   </body>
