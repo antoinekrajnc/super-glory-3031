@@ -8,8 +8,7 @@
 body {
   font-family: "defconzero";
   margin:0;
-  background: url("assets/marketing3.png");
-  background-position: center;
+  background: url("assets/websitebg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height:100vh;
@@ -27,6 +26,10 @@ body {
   font-size: 2rem;
 }
 
+.navbar-link:hover {
+  color:white;
+}
+
 .modal-title {
   color:black;
 }
@@ -39,9 +42,13 @@ body {
 
 .presentation-text {
   position:fixed;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.8rem;
   width: 65%;
+  max-height: 50%;
   top:30%;
-  line-height: 1.8rem;
+  line-height: 2.2rem;
+  overflow: scroll;
 }
 
 .sign-up {
@@ -51,6 +58,11 @@ body {
 .sign-up-btn {
   font-size:2rem;
   color:white;
+  cursor: pointer;
+}
+
+.sign-up-btn:hover{
+  border-bottom: 3px solid white;
 }
 
 .social-media-logo {
