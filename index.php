@@ -13,11 +13,11 @@
   <body>
     <div class="d-flex flex-row justify-content-center align-items-center">
       <div class="d-flex flex-column">
-        <a class="navbar-link d-flex justify-content-start mr-4" href="#">Info</a>
+        <a class="link-top navbar-link d-flex justify-content-start mr-4" href="#">Info</a>
       </div>
         <img class="logo ml-5 mr-5" src="assets/websitelogo2.png" alt="super-glory-3031-log">
       <div class="d-flex flex-column">
-        <a class="navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com" target="_blank">Blog</a>
+        <a class="link-top navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com" target="_blank">Blog</a>
       </div>
     </div>
     <div class="d-flex justify-content-center">
