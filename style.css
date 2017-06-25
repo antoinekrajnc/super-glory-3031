@@ -98,7 +98,7 @@ max-height:40%;
 
 .presentation-text {
 font-size:1.5rem;
-max-height:30%;
+max-height:40%;
 
 }
 
@@ -108,7 +108,7 @@ max-height:30%;
 
 .presentation-text {
 font-size:1rem;
-max-height:20%;
+max-height:30%;
 
 }
 
@@ -116,7 +116,12 @@ max-height:20%;
 
 @media (max-width:735px) {
 
-.link-top {
-display:none;
+.presentation-text {
+font-size:1rem;
+max-height:18%;
+
 }
+
+
 }
+
