@@ -1,36 +1,28 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-101754401-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
     <meta charset="utf-8">
     <title>Super Glory 3031</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   </head>
   <body>
     <div class="d-flex flex-row justify-content-center align-items-center">
       <div class="d-flex flex-column">
-        <a class="link-top navbar-link d-flex justify-content-start mr-4" href="#">Info</a>
+        <a class="navbar-link d-flex justify-content-start mr-4" href="info.html">Info</a>
       </div>
         <img class="logo ml-5 mr-5" src="assets/websitelogo2.png" alt="super-glory-3031-log">
       <div class="d-flex flex-column">
-        <a class="link-top navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com" target="_blank">Blog</a>
+        <a class="navbar-link d-flex justify-content-end ml-5" href="http://superglorygame.tumblr.com" target="_blank">Blog</a>
       </div>
     </div>
     <div class="d-flex justify-content-center">
-      <img class="navbar-img" src="assets/navbartrim.png" alt="navbar">
+      <img class="navbar-img row align-items-start" src="assets/navbartrim.png" alt="navbar">
     </div>
 
     <div class="d-flex justify-content-center">
