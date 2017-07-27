@@ -17,8 +17,9 @@ body {
 
 .navbar-img {
   position: fixed;
-  width: 90%;
   top:10%;
+  right:8%;
+  width: 90%;
 }
 
 .navbar-link {
@@ -38,6 +39,7 @@ body {
   position:fixed;
   width:70%;
   top:25%;
+  right:15%;
 }
 
 .presentation-text {
@@ -47,6 +49,7 @@ body {
   width: 65%;
   max-height: 50%;
   top:30%;
+  right:18%;
   line-height: 2.2rem;
   overflow: scroll;
 }
